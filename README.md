@@ -23,15 +23,19 @@ Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista 
   <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">GCP</span>
 </div>
 
-<div style="font-weight:normal; font-size:0.9rem; margin-bottom:0; margin-top:12px;">Librerías: 
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">Pandas</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">NumPy</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">Matplotlib</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">Seaborn</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">SciPy</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">Scikit-learn</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">XGBoost</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">TensorFlow</span>
-  <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">PySpark</span>
+<div style="font-weight:normal; font-size:0.9rem; margin-top:12px; margin-bottom:0;">
+  Librerías:
+  <div style="display: flex; flex-wrap: wrap; margin-top: 8px; gap: 8px;">
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">Pandas</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">NumPy</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">Matplotlib</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">Seaborn</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">SciPy</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">Scikit-learn</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">XGBoost</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">TensorFlow</span>
+    <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; font-size:0.9rem; font-weight:normal;">PySpark</span>
+  </div>
+</div>
 
 </div>
