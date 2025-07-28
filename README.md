@@ -1,7 +1,5 @@
 ## Sobre mí
 
-<h3><i>Data Analyst and Data Scientist</i></h3>
-
 Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista en los sectores de educación superior y telecomunicaciones. Actualmente me especializo en ciencia de datos, con el objetivo de avanzar hacia un rol donde pueda aplicar modelamiento predictivo para generar valor.
 
 ## Skills
