@@ -1,10 +1,11 @@
 ## Sobre mí
 
-<div style="text-align: justify">
+<div style="text-align: justify;margin-bottom: 20px;">
 
 Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista en los sectores de educación superior y telecomunicaciones. Actualmente me especializo en ciencia de datos, con el objetivo de avanzar hacia un rol donde pueda aplicar modelamiento predictivo para generar valor.
 
 </div>
+
 ## Skills
 
 <div style="font-weight:normal; font-size:0.9rem; margin-bottom:0;">Lenguajes: 
