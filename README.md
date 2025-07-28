@@ -36,3 +36,11 @@ Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista 
   <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">TensorFlow</span>
   <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">PySpark</span> 
 </div>
+
+## Proyectos
+
+<div style="text-align: justify; margin-bottom: 20px;">
+
+Aquí comparto una selección de proyectos personales y académicos en los que he aplicado técnicas de análisis de datos, modelamiento predictivo y visualización, utilizando diversas herramientas de ciencia de datos para profundizar en el aprendizaje y la práctica.
+
+</div>
