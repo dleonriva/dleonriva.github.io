@@ -43,4 +43,9 @@ Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista 
 
 Aquí comparto una selección de proyectos personales y académicos en los que he aplicado técnicas de análisis de datos, modelamiento predictivo y visualización, utilizando diversas herramientas de ciencia de datos para profundizar en el aprendizaje y la práctica.
 
+ ## Predicción del Valor de Viviendas en Boston 🏡
+
+Predicción del valor de viviendas en Boston mediante técnicas de regresión supervisada.  
+Se entrenaron y compararon modelos como **Regresión Lineal, SVR, KNN, Random Forest y Gradient Boosting**.  
+Los mejores resultados se obtuvieron con **Gradient Boosting y Random Forest**, logrando mayor precisión y menor error.  
 </div>
