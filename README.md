@@ -37,6 +37,7 @@ Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista 
   <span style="background-color:#3572A5; color:white; padding:4px 10px; border-radius:20px; margin-left:8px; font-size:0.9rem; font-weight:normal;">PySpark</span> 
 </div>
 
+
 ## Proyectos
 
 <div style="text-align: justify; margin-bottom: 20px;">
@@ -47,5 +48,5 @@ Aquí comparto una selección de proyectos personales y académicos en los que h
 ### Predicción del Valor de Viviendas
 
 <div style="text-align: justify;">
-Predicción mediante técnicas de regresión supervisada.Se entrenaron y compararon modelos como Regresión Lineal, SVR, KNN, Random Forest y Gradient Boosting. Los mejores resultados se obtuvieron con Gradient Boosting y Random Forest, logrando mayor precisión y menor error.
+Predicción mediante técnicas de regresión supervisada. Se entrenaron y compararon modelos como Regresión Lineal, SVR, KNN, Random Forest y Gradient Boosting. Los mejores resultados se obtuvieron con Gradient Boosting y Random Forest, logrando mayor precisión y menor error.
 </div>
