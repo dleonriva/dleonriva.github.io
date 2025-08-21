@@ -51,7 +51,7 @@ Aquí comparto una selección de proyectos personales y académicos en los que h
 Predicción mediante técnicas de regresión supervisada. Se entrenaron y compararon modelos como Regresión Lineal, SVR, KNN, Random Forest y Gradient Boosting. Los mejores resultados se obtuvieron con Gradient Boosting y Random Forest, logrando mayor precisión y menor error.
 </div>
 
-### [Detección de Noticias Falsas y Reales](https://github.com/dleonriva/Proyectos-de-Datos/blob/main/Fake%20News%20Detection/Fake_News_Detection.ipynb)
+### [Detección de Noticias Falsas y Reales](https://github.com/dleonriva/Proyectos-de-Datos/blob/main/Fake%20and%20Real%20News/Fake%20and%20Real%20News.ipynb)
 
 <div style="text-align: justify;">
 Clasificación de noticias falsas y reales mediante técnicas de aprendizaje supervisado. Se aplicaron procesos de limpieza y vectorización de texto (TF-IDF), entrenando modelos como Naive Bayes, SVM y Random Forest. Los resultados fueron evaluados con Accuracy, Recall y F1 Score, destacando los algoritmos más efectivos contra la desinformación.
