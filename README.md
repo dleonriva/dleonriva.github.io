@@ -42,7 +42,7 @@ Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista 
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-Aquí comparto una selección de proyectos personales y académicos en los que he aplicado técnicas de análisis de datos, modelamiento predictivo y visualización, utilizando diversas herramientas de ciencia de datos para profundizar en el aprendizaje y la práctica.
+Aquí comparto una selección de proyectos personales y académicos en los que he aplicado técnicas de análisis de datos, modelamiento predictivo y visualización:
 </div>
 ### [Predicción de Consumo de Energía Eléctrica](https://github.com/dleonriva/Proyectos-de-Datos/blob/main/Household%20Power%20Consumption/Predicci%C3%B3n%20del%20Consumo%20de%20Energ%C3%ADa%20El%C3%A9ctrica.ipynb)
 
