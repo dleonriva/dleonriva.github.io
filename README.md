@@ -44,7 +44,12 @@ Soy Ingeniera Civil Industrial con más de 2 años de experiencia como analista 
 
 Aquí comparto una selección de proyectos personales y académicos en los que he aplicado técnicas de análisis de datos, modelamiento predictivo y visualización, utilizando diversas herramientas de ciencia de datos para profundizar en el aprendizaje y la práctica.
 </div>
+### [Predicción de Consumo de Energía Eléctrica](https://github.com/dleonriva/Proyectos-de-Datos/blob/main/Household%20Power%20Consumption/Predicci%C3%B3n%20del%20Consumo%20de%20Energ%C3%ADa%20El%C3%A9ctrica.ipynb)
 
+<div style="text-align: justify;">
+Predicción del consumo eléctrico mediante técnicas de series temporales y redes neuronales. Se aplicaron procesos de limpieza, agregación temporal y escalamiento de datos, entrenando un modelo MLP con capas ocultas densas. Los resultados fueron evaluados con métricas de error y visualización de valores reales vs. predichos, destacando la capacidad del modelo para capturar patrones y tendencias en el consumo de energía
+</div>
+<br>
 ### [Predicción del Valor de Viviendas](https://github.com/dleonriva/Proyectos-de-Datos/blob/main/Housing%20Price%20Prediction/Housing%20Price%20Prediction.ipynb)
 
 <div style="text-align: justify;">
